@@ -1,4 +1,4 @@
-from charts import charts
+from charts.part import charts
 
 def run():
     charts.generate_pie_chart()
